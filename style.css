@@ -1,0 +1,47 @@
+*{
+    font-family: "Playwrite HR Lijeva", cursive;
+}
+
+header{
+    background-color: #2D033B;
+}
+
+header span{
+    color: #FFDB00/*#E5B8F4*/;
+ }
+
+ .lead{
+   text-align: justify;
+ }
+
+ .nav-item a{
+    color: #FFDB00 /*#E5B8F4;*/
+ }
+
+ /*Para link visitados*/
+ .nav-item a:visited{
+    color: #FFDB00;
+ }
+
+ .nav-item a:hover{
+    color: #FF8F00
+ }
+
+#nav-button{
+background-color: #FF8F00 /*#C147E9*/;
+ }
+
+.bi{
+   color: #4C3BCF;
+   font-size: 2em;
+ }
+
+.img-proyecto1{
+   background-image: url('/assets/Pinterest.png');
+   opacity: 0.8;
+   background-size: contain;
+   background-repeat: no-repeat;
+} 
+
+
+ 
