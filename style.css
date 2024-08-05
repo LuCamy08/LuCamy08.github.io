@@ -61,4 +61,11 @@ footer p a{
    color: #C147E9;
 }
 
- 
+#app{
+   -webkit-text-stroke: 2px #810CA8; /* Cambia el grosor y el color del borde #D0A2F7*/
+   color: #D0A2F7 ; /* Hace el relleno transparente #C147E9 */
+   /*background-color: #C147E9;*/ /* Cambia el fondo del texto */
+   display: inline-block;
+
+   
+}
