@@ -1,5 +1,7 @@
 *{
-    font-family: "Playwrite HR Lijeva", cursive;
+    /*font-family: "Playwrite HR Lijeva", cursive;*/
+    font-family: "Merriweather", serif;
+
 }
 
 header{
@@ -31,7 +33,7 @@ header span{
 background-color: #FF8F00 /*#C147E9*/;
  }
 
-.bi{
+ .icon-habilidades{
    color: #4C3BCF;
    font-size: 2em;
  }
@@ -43,5 +45,20 @@ background-color: #FF8F00 /*#C147E9*/;
    background-repeat: no-repeat;
 } 
 
+footer{
+   background-color: #2D033B;
+}
+
+footer .icon-footer i{
+   color: #C147E9;
+}
+
+footer p{
+   color: #C147E9;
+}
+
+footer p a{
+   color: #C147E9;
+}
 
  
